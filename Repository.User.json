@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "676cb04cddf9a5f2d84eeb9a"
+  },
+  "id": 1234,
+  "Nama": "Fakhri",
+  "Email": "Fakhriaziz0523@gmail.com",
+  "No_HP": 87785595763
+},
+{
+  "_id": {
+    "$oid": "676cb124ddf9a5f2d84eeb9b"
+  },
+  "id": 1234,
+  "Nama": "Fakhri",
+  "Email": "Fakhriaziz0523@gmail.com",
+  "No_HP": 87785595763
+}]
